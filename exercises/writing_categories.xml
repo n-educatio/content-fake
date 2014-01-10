@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<systemCategories>
+ <categoryGroup id="0">
+        <category name_pl="kategoria" name_en="category" pointsToGain="10"/>
+ </categoryGroup>
+  <categoryGroup id="1" type="exam">
+    <category name_pl="kategoria egzaminacyjna" name_en="exam category" pointsToGain="10"/>
+  </categoryGroup>
+</systemCategories>
+
